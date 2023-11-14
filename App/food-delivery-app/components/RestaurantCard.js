@@ -52,7 +52,7 @@ const RestaurantCard = ({
         </View>
 
         <View className="flex-row items-center space-x-1">
-          <Text className="text-gray-500 text-sm">Nearby • {address} </Text>
+          <Text className="text-gray-500 text-sm w-64">Nearby • {address} </Text>
         </View>
       </View>
     </TouchableOpacity>
